@@ -1,0 +1,12 @@
+install all dependencies
+ 	npm install
+
+different task runner
+	for development
+		gulp   (default task)
+
+for build and task runner will generate dist.
+	gulp build
+
+for test
+ 	gulp test

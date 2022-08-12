@@ -1,0 +1,16 @@
+package.json
+package-lock.json
+dist
+apache
+ng-feedback
+ng-renault-feedback
+non-angular-plugin
+nginx
+src/assets
+.editorconfig
+.gitignore
+.prettierignore
+browserslist
+Dockerfile
+src/favicon.ico
+src/feedback.gif
